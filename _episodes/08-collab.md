@@ -56,14 +56,11 @@ If we look at the title, we can see that the owner has changed. Now, our account
 
 ![The Forked Repo](../fig/01-fig_05.png)
 
-Now that we have our own copy, we are ready to start adding information.
-
-
-
-
 ## Cloning your fork
 
+Now that we have our own fork, we are ready to start adding information.
 
+First, we'll clone our fork so that we can modify it.
 
 ~~~
 $ cd ~/Desktop
