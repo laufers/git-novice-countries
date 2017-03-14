@@ -1,12 +1,14 @@
 ---
 title: Collaborating
-teaching: 30
+teaching: 45
 exercises: 0
 questions:
 - "How can I use version control to collaborate with other people?"
 objectives:
+- "Fork an existing repository."
 - "Clone a remote repository."
 - "Collaborate pushing to a common repository."
+- "Merge in changes from an upstream repository."
 keypoints:
 - "To work on someone else's code, you will typically need to fork their repository."
 - "Collaboration on GitHub is driven by Pull Requests."
